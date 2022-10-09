@@ -1,0 +1,41 @@
+List of protein-ligand interactions
+-----------------------------------
+
+
+
+
+PDB code: GM_S1_52918_dry
+==============
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no  name name  no  Chain        no  name name  no  Chain  Distance
+    1     9  CE1 PHE    1    S    ---    59  O   SER  217    C     3.318
+    2     8  CD1 PHE    1    S    ---    59  O   SER  217    C     3.768
+    3    10  CZ  PHE    1    S    ---    38  N   GLY  216    C     3.863
+    4     9  CE1 PHE    1    S    ---    38  N   GLY  216    C     3.785
+    5     8  CD1 PHE    1    S    ---    38  N   GLY  216    C     3.703
+    6     7  CG  PHE    1    S    ---    38  N   GLY  216    C     3.849
+    7     8  CD1 PHE    1    S    ---    25  CZ3 TRP  215    C     3.646
+    8     6  CB  PHE    1    S    ---    25  CZ3 TRP  215    C     3.897
+    9     5  CA  PHE    1    S    ---    25  CZ3 TRP  215    C     3.882
+   10     8  CD1 PHE    1    S    ---    24  CE3 TRP  215    C     3.829
+   11     6  CB  PHE    1    S    ---    24  CE3 TRP  215    C     3.609
+   12     6  CB  PHE    1    S    ---   102  O   SER  214    C     3.189
+   13    12  CE2 PHE    1    S    ---    91  CG2 VAL  213    C     3.569
+   14    13  C   PHE    1    S    ---    81  OG  SER  195    C     3.859
+   15    10  CZ  PHE    1    S    ---    72  CB  ASP  194    C     3.773
+   16    14  O   PHE    1    S    ---    34  SD  MET  192    C     3.898
+   17     9  CE1 PHE    1    S    ---    31  CA  MET  192    C     3.857
+   18    10  CZ  PHE    1    S    ---    30  N   MET  192    C     3.858
+   19     9  CE1 PHE    1    S    ---    30  N   MET  192    C     3.411
+   20    10  CZ  PHE    1    S    ---    52  C   CYS  191    C     3.745
+   21     9  CE1 PHE    1    S    ---    52  C   CYS  191    C     3.772
+   22    12  CE2 PHE    1    S    ---    45  OG  SER  190    C     3.871
+   23    10  CZ  PHE    1    S    ---    45  OG  SER  190    C     3.501
+   24    15  NT  PHE    1    S    ---    67  CD2 HSD   57    B     3.506

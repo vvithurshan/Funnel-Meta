@@ -1,0 +1,93 @@
+List of protein-ligand interactions
+-----------------------------------
+
+
+
+
+PDB code: 921_dry
+==============
+
+
+Hydrogen bonds
+--------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no  name name  no  Chain        no  name name  no  Chain  Distance
+    1    11  N   ALA    2    S    ---    39  O   GLY  216    C     3.175
+    2    36  N   GLY  216    C    ---    15  O   ALA    2    S     2.764
+    3    24  N   PHE    4    S    ---    45  O   SER  214    C     3.050
+    4    96  N   GLY  193    C    ---    34  O   PHE    4    S     2.813
+
+
+Non-bonded contacts
+-------------------
+
+       <----- A T O M   1 ----->       <----- A T O M   2 ----->
+
+       Atom Atom Res  Res              Atom Atom Res  Res
+        no  name name  no  Chain        no  name name  no  Chain  Distance
+    1    32  CE2 PHE    4    S    ---    93  SG  CYS  220    C     3.811
+    2    30  CZ  PHE    4    S    ---    93  SG  CYS  220    C     3.400
+    3    30  CZ  PHE    4    S    ---    92  CB  CYS  220    C     3.437
+    4    29  CE1 PHE    4    S    ---    92  CB  CYS  220    C     3.828
+    5    30  CZ  PHE    4    S    ---    91  CA  CYS  220    C     3.892
+    6    13  CB  ALA    2    S    ---   130  O   SER  218    C     3.673
+    7    30  CZ  PHE    4    S    ---    89  O   SER  217    C     3.791
+    8    29  CE1 PHE    4    S    ---    89  O   SER  217    C     3.366
+    9    13  CB  ALA    2    S    ---    89  O   SER  217    C     3.537
+   10    30  CZ  PHE    4    S    ---    84  N   SER  217    C     3.593
+   11    29  CE1 PHE    4    S    ---    84  N   SER  217    C     3.761
+   12    12  CA  ALA    2    S    ---    39  O   GLY  216    C     3.881
+   13     7  CB  PRO    1    S    ---    39  O   GLY  216    C     3.796
+   14     5  CD  PRO    1    S    ---    39  O   GLY  216    C     3.481
+   15    30  CZ  PHE    4    S    ---    38  C   GLY  216    C     3.889
+   16    29  CE1 PHE    4    S    ---    38  C   GLY  216    C     3.756
+   17    32  CE2 PHE    4    S    ---    37  CA  GLY  216    C     3.852
+   18    30  CZ  PHE    4    S    ---    37  CA  GLY  216    C     3.726
+   19    29  CE1 PHE    4    S    ---    37  CA  GLY  216    C     3.753
+   20    28  CD1 PHE    4    S    ---    37  CA  GLY  216    C     3.880
+   21    15  O   ALA    2    S    ---    37  CA  GLY  216    C     3.890
+   22    31  CD2 PHE    4    S    ---    36  N   GLY  216    C     3.808
+   23    29  CE1 PHE    4    S    ---    36  N   GLY  216    C     3.775
+   24    28  CD1 PHE    4    S    ---    36  N   GLY  216    C     3.389
+   25    27  CG  PHE    4    S    ---    36  N   GLY  216    C     3.480
+   26    14  C   ALA    2    S    ---    36  N   GLY  216    C     3.880
+   27    31  CD2 PHE    4    S    ---    59  O   TRP  215    C     3.760
+   28    31  CD2 PHE    4    S    ---    58  C   TRP  215    C     3.898
+   29    27  CG  PHE    4    S    ---    58  C   TRP  215    C     3.629
+   30    15  O   ALA    2    S    ---    58  C   TRP  215    C     3.394
+   31     1  CAY PRO    1    S    ---    54  CE3 TRP  215    C     3.749
+   32     1  CAY PRO    1    S    ---    53  CD2 TRP  215    C     3.829
+   33    15  O   ALA    2    S    ---    48  CB  TRP  215    C     3.230
+   34    15  O   ALA    2    S    ---    47  CA  TRP  215    C     3.312
+   35    33  C   PHE    4    S    ---    45  O   SER  214    C     3.720
+   36    26  CB  PHE    4    S    ---    45  O   SER  214    C     3.595
+   37    25  CA  PHE    4    S    ---    45  O   SER  214    C     3.641
+   38    20  CD1 LEU    3    S    ---    45  O   SER  214    C     3.462
+   39    35  NT  PHE    4    S    ---   115  CG1 VAL  213    C     3.300
+   40    26  CB  PHE    4    S    ---   115  CG1 VAL  213    C     3.873
+   41    33  C   PHE    4    S    ---   109  OG  SER  195    C     3.808
+   42    35  NT  PHE    4    S    ---   107  CA  SER  195    C     3.711
+   43    34  O   PHE    4    S    ---    97  CA  GLY  193    C     3.669
+   44    34  O   PHE    4    S    ---    82  C   MET  192    C     3.582
+   45    29  CE1 PHE    4    S    ---    81  CE  MET  192    C     3.848
+   46    13  CB  ALA    2    S    ---    81  CE  MET  192    C     3.396
+   47    23  O   LEU    3    S    ---    79  CG  MET  192    C     3.802
+   48    34  O   PHE    4    S    ---    77  CA  MET  192    C     3.391
+   49    33  C   PHE    4    S    ---   105  O   CYS  191    C     3.662
+   50    26  CB  PHE    4    S    ---   105  O   CYS  191    C     3.608
+   51    25  CA  PHE    4    S    ---   105  O   CYS  191    C     3.717
+   52    32  CE2 PHE    4    S    ---    75  O   SER  190    C     3.087
+   53    31  CD2 PHE    4    S    ---    75  O   SER  190    C     3.566
+   54    30  CZ  PHE    4    S    ---    75  O   SER  190    C     3.817
+   55    32  CE2 PHE    4    S    ---    74  C   SER  190    C     3.778
+   56    31  CD2 PHE    4    S    ---    74  C   SER  190    C     3.829
+   57    21  CD2 LEU    3    S    ---    67  CD2 HSD   57    B     3.743
+   58    20  CD1 LEU    3    S    ---    67  CD2 HSD   57    B     3.587
+   59    19  CG  LEU    3    S    ---    67  CD2 HSD   57    B     3.879
+   60    20  CD1 LEU    3    S    ---    66  NE2 HSD   57    B     3.735
+   61    20  CD1 LEU    3    S    ---    65  CE1 HSD   57    B     3.839
+   62    20  CD1 LEU    3    S    ---    64  CG  HSD   57    B     3.551
+   63    20  CD1 LEU    3    S    ---    63  ND1 HSD   57    B     3.722
