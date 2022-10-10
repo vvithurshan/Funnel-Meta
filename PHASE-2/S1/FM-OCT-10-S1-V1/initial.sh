@@ -56,7 +56,7 @@ PE_15=192-255
 
 ppn=64
 
-namd2=/home/nmrbox/0014/vvarenthirarajah/Documents/2022/NAMD_Build/June/NAMD_2.14_Linux-x86_64-multicore-CUDA/namd2
+namd2=/home/${server}/0014/vvarenthirarajah/Documents/2022/NAMD_Build/June/NAMD_2.14_Linux-x86_64-multicore-CUDA/namd2
 
 echo "MD1";
 \$namd2 +p\${ppn} +idlepoll +setcpuaffinity  +isomalloc_sync +pemap \$PE_$W  MD1.conf > MD1.log
