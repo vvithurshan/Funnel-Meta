@@ -75,13 +75,13 @@ stepspercycle 10
 
 paratypecharmm on
 
-parameters /home/nmrbox/0014/vvarenthirarajah/Documents/Parameter/par_all36_carb.prm
-parameters /home/nmrbox/0014/vvarenthirarajah/Documents/Parameter/par_all36_cgenff.prm
-parameters /home/nmrbox/0014/vvarenthirarajah/Documents/Parameter/par_all36_lipid.prm
-parameters /home/nmrbox/0014/vvarenthirarajah/Documents/Parameter/par_all36m_prot.prm
-parameters /home/nmrbox/0014/vvarenthirarajah/Documents/Parameter/par_all36_na.prm
-parameters /home/nmrbox/0014/vvarenthirarajah/Documents/Parameter/par_interface.prm
-parameters /home/nmrbox/0014/vvarenthirarajah/Documents/Parameter/toppar_water_ions_namd.str
+parameters /home/\${server}/0014/vvarenthirarajah/Documents/Parameter/par_all36_carb.prm
+parameters /home/\${server}/0014/vvarenthirarajah/Documents/Parameter/par_all36_cgenff.prm
+parameters /home/\${server}/0014/vvarenthirarajah/Documents/Parameter/par_all36_lipid.prm
+parameters /home/\${server}/0014/vvarenthirarajah/Documents/Parameter/par_all36m_prot.prm
+parameters /home/\${server}/0014/vvarenthirarajah/Documents/Parameter/par_all36_na.prm
+parameters /home/\${server}/0014/vvarenthirarajah/Documents/Parameter/par_interface.prm
+parameters /home/\${server}/0014/vvarenthirarajah/Documents/Parameter/toppar_water_ions_namd.str
 
 
 exclude scaled1-4
