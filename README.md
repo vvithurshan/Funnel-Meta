@@ -1,4 +1,5 @@
 ## Funnel Metadynamics 
+![Image alt text](comparison/All.png)
 
 ### Results
 | Substrate | Free energy(exp)(Kcal/mol) | Free energy(cal)(Kcal/mol) |
