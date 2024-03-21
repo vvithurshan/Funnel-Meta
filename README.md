@@ -6,8 +6,8 @@
 |---|---|---|
 | S1 Ac-Phe-NH2 | -2.07 | -2.67 |
 | S3 Ac-Phe-Gly-NH2 | -2.52 | -3.54 |
-| S6 AC-PRO-ALA-LEU-PHE-NH2 | -3.34 | -3.94 |
-| S8 AC-PRO-ALA-PHE-PHE-NH2 | -4.06 | -4.66 |
+| S6 AC-PRO-ALA-LEU-PHE-NH2 | -3.34 | -3.96 |
+| S8 AC-PRO-ALA-PHE-PHE-NH2 | -4.06 | -4.64 |
 
 ### PDB and PSF file generation
 The PDB structure of alpha-chymotrypsin was downloaded from the Protein Data Bank, at rcsb.org, with a high resolution of 1.68 Å. The entry code is 4cha, which contains the dimer form of the alpha-chymotrypsin with six chains (A, B, C, D, E, and F). Since the monomer of chymotrypsin is biologically relevant, only three unique chains - A, B, and D - were used for all the calculations. The protein structure file (PSF) was generated with the CHARMM36 force field. During this step, two missing residues(12 and 13) of chain A were added, the protonation state of the histidine residue was modified from HIS to HSD, and missing hydrogen atoms were added. 
